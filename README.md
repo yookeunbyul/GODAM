@@ -1,10 +1,9 @@
 # GoDam
 
-![GoDam_QRCode](https://user-images.githubusercontent.com/91243743/145690888-dda2130b-7d34-4413-9a45-0a1a5d4bde05.jpg)
+![godam-mokup2](https://user-images.githubusercontent.com/91243651/146883602-839efae0-8d1c-48d4-80d5-67d9b2793c20.png)
 
-### SeSAC 3기 팀 프로젝트
-- 박정훈 김소민 진현성 육은별 백가연
-
+&nbsp;
+[고담 | Main](https://godam.ga/user/login)
 &nbsp;
 
 ## 💡 상세 내용
