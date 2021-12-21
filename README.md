@@ -16,17 +16,7 @@
 사용자들은 길냥이들의 사진과 정보를 업로드하고, 좋아요와 댓글을 남겨 우리 동네 랜드마크로 만들 수 있습니다.
 
 &nbsp;
-&nbsp;
-- **팀 구성**
-    
-    백엔드 개발 2, 프론트 개발 3
-    
-- **사용 기술 및 라이브러리**
-    
-    Django, HTML/CSS, JS, KaKao Map API, AWS, Bootstrap, SweetAlert
-    
-    
-&nbsp;
+
 ### 👩🏻‍💻 담당한 기능
 
 - 컨셉 디자인
@@ -43,3 +33,16 @@
 
   ![마스크 그룹 9](https://user-images.githubusercontent.com/91243651/146886839-629802e0-ded7-4f09-b153-9f494478e87a.png)
   
+
+&nbsp;
+- **팀 구성**
+    
+    백엔드 개발 2, 프론트 개발 3
+    
+    
+- **사용 기술 및 라이브러리**
+    
+    Django, HTML/CSS, JS, KaKao Map API, AWS, Bootstrap, SweetAlert
+    
+    
+&nbsp;
