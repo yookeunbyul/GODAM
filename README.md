@@ -1,18 +1,30 @@
 # GoDam
-고양이를 담다
-
-고담은 우리동네 고양이들을 확인하고 소통하는 사이트 입니다
 
 ![GoDam_QRCode](https://user-images.githubusercontent.com/91243743/145690888-dda2130b-7d34-4413-9a45-0a1a5d4bde05.jpg)
 
-https://godam.ga/user/login
-
-사용기술
-1. AWS 서버 구축 https 적용
-2. Django apache
-3. Bootstrap
-
-SSAC 3기 팀 프로젝트
+### SeSAC 3기 팀 프로젝트
 - 박정훈 김소민 진현성 육은별 백가연
 
-<img width="1418" alt="스크린샷 2021-12-10 오전 9 18 22" src="https://user-images.githubusercontent.com/91243743/145690843-1ae3751b-5983-408a-a6c7-6e038d5a73d5.png">
+### 💡 상세 내용
+
+🐱 SeSAC에서 진행한 **팀 프로젝트**입니다. 고담은 고양이를 담다는 뜻으로, 우리 동네 길냥이들을 컴퓨터 혹은 스마트폰에 담아 간편하게 확인할 수 있는 서비스를 제공합니다. 사용자들은 길냥이들의 사진과 정보를 업로드하고, 좋아요와 댓글을 남겨 우리 동네 랜드마크로 만들 수 있습니다. 
+
+- **팀 구성**
+    
+    백엔드 개발 2, 프론트 개발 3
+    
+- **사용 기술 및 라이브러리**
+    
+    Django, HTML/CSS, JS, KaKao Map API, AWS, Bootstrap, SweetAlert
+    
+### 👩🏻‍💻 담당한 기능
+
+- 컨셉 디자인
+- **반응형 풀페이지** 구현
+- **메인화면** UI 구현
+- **ABOUT 페이지 UI/반응형** 구현
+- **CAT 페이지 UI** 구현
+
+### 🛠️ 문제 해결
+
+ABOUT 페이지 반응형 구현이 가장 어려웠습니다. div를 섹션처럼 사용해서 div마다 풀 페이지로 구현하다 보니 가로 사이즈가 줄어들면 div끼리 겹쳐지면서 모든 배치가 어그러졌습니다. 이 현상을 고치기 위해 여러 시도를 해보았지만 해결책이 보이지 않았고, 결국 화면이 xs 사이즈일 때는 carousel을 보여주고(`d-block d-sm-none`), md 사이즈 이상일 때는 card를 보여주는 식(`d-none d-md-block`)으로 화면을 구성했습니다.
