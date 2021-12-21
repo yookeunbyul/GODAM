@@ -2,10 +2,10 @@
 
 ![godam-mokup2](https://user-images.githubusercontent.com/91243651/146883602-839efae0-8d1c-48d4-80d5-67d9b2793c20.png)
 
-&nbsp;
+### 🔗 Link
 [고담 | Main](https://godam.ga/user/login)   (🔐 ID : yookeunbyul | Password : yook1234)
-&nbsp;
 
+&nbsp;&nbsp;
 ## 💡 상세 내용
 
 🐱 SeSAC에서 진행한 **팀 프로젝트**입니다. 
