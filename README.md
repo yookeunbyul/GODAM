@@ -32,5 +32,7 @@
 - 컨셉 디자인
 - **반응형 풀페이지** 구현
 - **메인화면** UI 구현
+  ![마스크 그룹 10](https://user-images.githubusercontent.com/91243651/146884602-4c55bac1-81f1-44e8-864c-b744d4df233f.png)
 - **ABOUT 페이지 UI/반응형** 구현
+  ![마스크 그룹 11](https://user-images.githubusercontent.com/91243651/146884720-8e69d773-d84c-4d68-95e2-4788d8114ec5.png)
 - **CAT 페이지 UI** 구현
