@@ -36,3 +36,4 @@
 - **ABOUT 페이지 UI/반응형** 구현
   ![마스크 그룹 11](https://user-images.githubusercontent.com/91243651/146884720-8e69d773-d84c-4d68-95e2-4788d8114ec5.png)
 - **CAT 페이지 UI** 구현
+  ![마스크 그룹 9](https://user-images.githubusercontent.com/91243651/146886839-629802e0-ded7-4f09-b153-9f494478e87a.png)
