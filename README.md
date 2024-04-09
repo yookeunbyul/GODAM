@@ -2,9 +2,6 @@
 
 ![godam-mokup2](https://user-images.githubusercontent.com/91243651/146883602-839efae0-8d1c-48d4-80d5-67d9b2793c20.png)
 
-### 🔗 Link
-[고담 | Main](https://godam.ga/user/login)   (🔐 ID : yookeunbyul | Password : yook1234)
-
 &nbsp;&nbsp;
 ## 💡 상세 내용
 
